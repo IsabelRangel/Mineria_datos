@@ -11,3 +11,5 @@
 [Ejercicios de python] (https://github.com/IsabelRangel/Mineria_datos/blob/main/Ej_Python_1848655.ipynb) 
 
 [Ejercicio de limpieza] (https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
+
+[Avance1_PIA_Equipo1] (https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb?fbclid=IwAR0HQ-3wfsiS9c6arZ6SESL1WOV3Jt_d4XIyUZtJjW74dhUKNezRK9uwSfU)
