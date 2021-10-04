@@ -20,3 +20,9 @@
 
 
 Programa del ejercicio de regresión] (https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Programa_Regresi%C3%B3n-Lineal_Equipo1.r?fbclid=IwAR3YgFJWMRacZSmc_gvAt4lv8NsgFbBy_lKpAistuhGCuOhSVZKtTOCRNB8)
+
+
+[Ejercicio de visualizacion] (https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
+
+
+[Avance2 del PIA] (https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
